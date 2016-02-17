@@ -10,5 +10,7 @@
 ## To Run:
 `npm start`
 
+Navigate to 'http://localhost:8080/dashboard/index.html'
+
 ## To Test:
 `npm test`
